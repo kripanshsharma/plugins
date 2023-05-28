@@ -40,6 +40,8 @@ If you wish to contribute a change to any of the existing plugins in this repo,
 please review our [contribution guide](https://github.com/flutter/plugins/blob/main/CONTRIBUTING.md),
 and send a [pull request](https://github.com/flutter/plugins/pulls).
 
+Do so if needed
+
 ## Plugins
 These are the available plugins in this repository.
 
